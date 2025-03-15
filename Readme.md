@@ -1,3 +1,10 @@
+<img width="449" alt="Screenshot 2025-03-15 at 07 25 12" src="https://github.com/user-attachments/assets/b2a2f393-8d5b-44bd-ab14-0490f5c51c82" />
+<img width="350" alt="Screenshot 2025-03-15 at 07 31 12" src="https://github.com/user-attachments/assets/85cf868e-bca2-4283-96b4-0a53043ddfdf" />
+<img width="442" alt="Screenshot 2025-03-15 at 07 30 30" src="https://github.com/user-attachments/assets/851b5923-d373-40fa-ba36-ee23dd9337fd" />
+<img width="425" alt="Screenshot 2025-03-15 at 07 29 57" src="https://github.com/user-attachments/assets/3a79680a-888f-494c-a4f6-d42db04f45e9" />
+<img width="344" alt="Screenshot 2025-03-15 at 07 31 01" src="https://github.com/user-attachments/assets/a7d74288-78ed-490f-af45-45a4cc878c8b" />
+<img width="425" alt="Screenshot 2025-03-15 at 07 30 39" src="https://github.com/user-attachments/assets/1325293c-4296-4dd5-858a-eb49b3842b58" />
+
 **Full-Stack Developer Technical Test: Optimized To-Do List Application**
 
 ## **Overview**
